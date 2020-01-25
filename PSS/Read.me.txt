@@ -1,0 +1,31 @@
+PSS V2 by Python Studios --------------------------
+
+Copys of this will not be distributed with your name/company on it
+PSS and all PSS attributes belong to their respected owners - Python Studios
+
+NOTE:
+PSS V2 might be updated sooner or later in time. You can view or code on GitHub and Khan Academy.
+PSS is a Processing JavaScript Plugin which is used to make fun JS progras such as games.
+To learn someof the language. I will show you some simpe commads:
+Commands:
+
+ PositionButton1.draw(); -- Makes a button In the bottom left corner
+
+ circle - make a circle, circle(z, y, width, height)
+
+ rec - make a rectangle, rec(x, y, width, height, radius)
+
+ Pt - make a dot, Pt(x, y)
+
+ ani - animate example: ani = function() {code here}
+
+ Clkcursor(); - Make a click cursor as your cursor (use in an ani command)
+
+ TargetCursor(); - Make a target cursor as your cursor (use in an ani command)
+
+
+
+
+If you want more commands to be published contact pgstudiosbot@gmail.com and we might be able to see your request.
+Aslo view the whole code, it will be hosted on google documents: https://bit.ly/2usOW7F    or full link: https://docs.google.com/document/d/110tfMFKpXvcQ832WRztkcln3AwiOIHd0zwdKihFYUnA/edit?usp=sharing
+Thanks!!!
